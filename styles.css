@@ -193,4 +193,8 @@ body {
     .rodape__lista {
         display: block;
     }
+
+    .container__botao:active {
+        color: var(--botao-azul-efeito);
+    }
 }
